@@ -1,0 +1,2 @@
+# CyberInfiniti-Internal-Offensive-Security-Exercise-Project-INFILTRATE
+A black-box penetration test of the VulnBank web application conducted by CyberInfiniti Ltd. This project documents the complete attack lifecycle, moving from initial reconnaissance to full system compromise. It identifies critical vulnerabilities across authentication, authorization, business logic, APIs, and integrated LLM systems.
